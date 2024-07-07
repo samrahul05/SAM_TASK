@@ -1,0 +1,56 @@
+.order-stat {
+  background: #f3f3f3fd;
+  padding: 1rem;
+  border: 1px solid #f3f3f3fd;
+  border-radius: 1rem;
+  text-align: center;
+  width: 200px;
+  gap:20px;
+  margin-bottom: 20px; 
+}
+  
+.order-stat__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+  
+.order-stat__icon {
+  width: 40px;
+  height: 40px;
+}
+  
+.order-stat__label {
+  font-weight: bold;
+  font-family: sans-serif;
+  margin-left:10px;
+}
+  
+.order-stat__change {
+  font-size: 0.875rem;
+  font-weight: bolder;
+}
+  
+.order-stat__change--increase {
+  color: rgb(3, 172, 3);
+}
+  
+.order-stat__change--decrease {
+  color: red;
+}
+  
+.order-stat__value {
+  font-size: 1.5rem;
+  color: balck;
+  font-weight: bolder;
+  margin-left: 1rem;
+}
+
+.order-stat_footer{
+  display: flex;
+  align-items:center;
+  margin-top: 1rem;
+  margin-left: 1rem;  
+}
+
+

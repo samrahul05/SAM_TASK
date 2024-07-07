@@ -1,0 +1,6 @@
+[
+    {"label":"Revenue","value":"$2.047","icon":"Revenue-icon.png","change":"10%","changeType":"decrease"},
+    {"label":"Orders","value":"356","icon":"Orders-icon.png","change":"20%","changeType":"increase"},
+    {"label":"Dine in","value":"220","icon":"dinein-icon.png","change":"10%","changeType":"increase"},
+    {"label":"Take away","value":"135","icon":"Takeaway-icon.png","change":"5%","changeType":"decrease"}
+]
